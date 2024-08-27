@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityHub\\Challenge 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|d:\\unityhub\\challenge 2\\assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\playercontrollerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|d:\\unityhub\\challenge 2\\assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\spawnmanagerx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|d:\\unityhub\\challenge 2\\assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\destroyoutofboundsx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|d:\\unityhub\\challenge 2\\assets\\challenge 2\\scripts\\moveforwardx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563CA739-243B-E651-96B5-20D71574CDB5}|Assembly-CSharp.csproj|solutionrelative:assets\\challenge 2\\scripts\\moveforwardx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerControllerX.cs",
+              "DocumentMoniker": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ToolTip": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\PlayerControllerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:08:58.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpawnManagerX.cs",
+              "DocumentMoniker": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ToolTip": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\SpawnManagerX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:07:43.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveForwardX.cs",
+              "DocumentMoniker": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "ToolTip": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\MoveForwardX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:07:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DestroyOutOfBoundsX.cs",
+              "DocumentMoniker": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeDocumentMoniker": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ToolTip": "D:\\UnityHub\\Challenge 2\\Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "RelativeToolTip": "Assets\\Challenge 2\\Scripts\\DestroyOutOfBoundsX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:06:11.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
