@@ -7,7 +7,7 @@ This Unity project is a simple game where a player send a dog towards a falling 
 1. **Player Input**:
    - **Spacebar**: Sends a dog out in a straight line forward
 2. **Falling Object**: A ball constantly falls from the sky at random times (between 3 to 5 seconds) for the player to catch with their dog.
-3. 
+
 ## Learnings
 
 - Set up prefabs and instantiate an object in order to act as a projectile sent out by the player.
