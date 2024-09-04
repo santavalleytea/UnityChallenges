@@ -27,6 +27,7 @@ Here is a list of the challenges included in this repository:
 
 1. **[Player Control Challenge](PlayerControl/README.md)**: A challenge to implement basic movement and controls of an object (in this case a plane) using Unity.
 2. **[Basic Gameplay Challenge](BasicGameplay/README.md)**: A challenge implementing basic game mechanics such as throwing multiple projectiles at another object.
+3. **[Sound and Effects Challenge](FloatingBalloon/README.md)**: A challenge implementing basic gameplay mechanics with a focation on sound and particle effects.
 
 ## License
 
